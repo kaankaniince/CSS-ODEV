@@ -1,0 +1,113 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .title h1 {
+    color: red;
+    font-size: 36px;
+    margin-top: 20px;
+  }
+  
+  .linkTicket a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: blue;
+    font-size: 18px;
+  }
+  
+  .linkTicket a:hover {
+    text-decoration: underline;
+  }
+  
+  .contents {
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  
+  .contents a {
+    color: blue;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  
+  .contents a:hover {
+    text-decoration: underline;
+  }
+  
+  .explanation {
+    color: brown;
+    font-size: 20px;
+    margin-top: 30px;
+    text-align: center;
+  }
+  
+  .explanation ul {
+    color: rgb(30, 27, 27);
+    list-style-type: disc;
+    padding-left: 0;
+    display: inline-block;
+    text-align: left;
+    margin: 0;
+  }
+  
+  .explanation li {
+    color: rgb(27, 24, 24);
+    font-size: 18px;
+    margin: 5px 0;
+    padding-left: 15px;
+  }
+  
+  .productsTitle {
+    color: brown;
+    font-size: 24px;
+    margin-top: 40px;
+  }
+  
+  .products {
+    margin-top: 20px;
+  }
+  
+  .products img {
+    width: 200px;
+    height: auto;
+  }
+  
+  .products p {
+    font-size: 18px;
+    margin-top: 10px;
+  }
+  
+  .aboutUs {
+    margin: 50px auto;
+    max-width: 800px;
+    line-height: 1.6;
+    color: #333;
+    font-family: Arial, sans-serif;
+  }
+  
+  .aboutUs h2 {
+    font-size: 24px;
+    color: red;
+    text-align: center;
+    margin: 20px 0;
+    border-bottom: 2px solid #8b0000;
+    padding-bottom: 10px;
+  }
+  
+  .aboutUs p {
+    font-size: 16px;
+    text-align: justify;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  .highlight {
+    font-weight: bold;
+    font-size: 1em;
+  }
